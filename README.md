@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[watch store]()**
+- 🔭 I’m currently working on **[Watch Store]()**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://choyon-das-portfolio.netlify.app/)**
 
 - 📫 How to reach me **choyondas08@gmail.com**
 
