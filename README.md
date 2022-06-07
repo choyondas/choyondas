@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://choyon-das-portfolio.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://choyon15-portfolio.netlify.app/)**
 
 - 📫 How to reach me **choyondas08@gmail.com**
 
